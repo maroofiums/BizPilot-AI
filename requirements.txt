@@ -1,0 +1,40 @@
+# Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Configuration and validation
+pydantic
+pydantic-settings
+python-dotenv
+
+# Data processing
+pandas
+
+# LLM and agent framework
+langchain
+langchain-core
+langchain-google-genai
+langgraph
+
+# Vector database and embeddings
+langchain-chroma
+chromadb
+sentence-transformers
+
+# MCP
+fastmcp
+
+# Observability
+langsmith
+
+# Frontend and visualization
+streamlit
+plotly
+
+# Testing
+pytest
+httpx
+
+# Code quality
+ruff
